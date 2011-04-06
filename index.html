@@ -7,6 +7,11 @@
 		<P>
 		Some test content.
 		</P>
+		<UL class="posts">
+			{% for post in site.posts %}
+				<LI><SPAN>{{ post.date | date_to_string }}</SPAN> - <A href="{{ post.url }}">{{ post.title }}</A></LI>
+			{% endfor %}
+		</UL>
 	</BODY>
 </HTML>
 
