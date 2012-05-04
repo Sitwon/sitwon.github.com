@@ -1,20 +1,13 @@
 ---
-title: Welcome
+title: Scurvy Blog
+layout: default
 ---
-<HTML>
-	<HEAD>
-		<TITLE>Welcome</TITLE>
-	</HEAD>
-	<BODY>
-		<H1>Welcome!</H1>
-		<P>
-		Some test content.
-		</P>
-		<UL class="posts">
-			{% for post in site.posts %}
-				<LI><SPAN>{{ post.date | date_to_string }}</SPAN> - <A href="{{ post.url }}">{{ post.title }}</A></LI>
-			{% endfor %}
-		</UL>
-	</BODY>
-</HTML>
+<div class="catchphrase">
+	A lime a day keeps scurvy at bay.
+</div>
 
+<ul class="posts">
+	{% for post in site.posts %}
+		<li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
