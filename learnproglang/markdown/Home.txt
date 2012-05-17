@@ -1,0 +1,98 @@
+﻿# So you want to learn a Programming Language
+## Resources, Guides, and Advice for self-motivated students
+
+This is partially just a brain-dump for me, but also a resource for anyone hoping to learn computer programming. There are many different reasons why people choose to learn a programming language and there are many different types of programmers out there. I tend to lean strongly in the "Computer Science" direction so often my suggestions, advice, and reasoning will be biased towards that perspective. I believe that everyone needs to understand at least the basics of Computer Science regardless of which language they plan to learn or how they plan to use it. To that end, I'm going to recommend that everyone who lacks a formal understanding of Computer Science (even if you've programmed before) start with Step 1.
+
+
+### Step 1: Intro to Computer Science.
+Short of taking an actual class, the best way to learn Computer Science that I know of is the wonderful lectures of Richard Buckland. Richard is a Computer Science professor at the University of New South Whales (UNSW) in sunny Australia. These classes give you a solid foundation in the concepts, principals, and vocabulary of Computer Science which you will need to really excel at learning a programming language. Through this course, you will also learn the basics of the C programming language. 
+
+I highly recommend watching both playlists through in order. Especially with a first language, there is really no substitute for having a teacher or mentor on hand. You will get the most out of these lectures if you have someone available to help you setup your programming environment and provide additional exercise to challenge you and make sure you have mastered the concepts. 
+
+* [Richard Buckland's COMP1917 (Higher Computing) lectures on `YouTube`](http://www.youtube.com/view_play_list?p=6B940F08B9773B9F)
+* [Richard Buckland's COMP1927 (Data Structures)  lectures on `YouTube`](http://www.youtube.com/view_play_list?p=E621E25B3BF8B9D1)
+
+You should also pick up a copy of the "K & R Bible".
+
+* [The C Programming Language](http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?ie=UTF8&s=books&qid=1281115882&sr=8-1) by Brian Kernighan and Dennis Ritchie
+
+Alternatively, try this online book, [Programming in C](http://www.cs.cf.ac.uk/Dave/C/) by Dave Marshall. (Recommended by Grey Wolf.)
+
+Another good introductory resource is "The Elements of Computing Systems". This is a course that takes you from logic-gates up to operating systems in just a single semester. It gives you a detailed understanding of the whole hardware and software stack.
+
+* [Video introduction](http://video.google.com/videoplay?docid=7654043762021156507#)
+* [Course book](http://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=tmm_pap_title_0)
+* [Course material/software](http://www1.idc.ac.il/tecs/) (Includes the lecture slides and most of the chapters as PDFs.)
+
+Yet another excellent resource is Charles Petzold's [Code](http://www.amazon.com/gp/product/0735611319/). It's an excellent book that takes a similar approach to The Elements of Computing Systems, that introduces Computer Science from first principles.
+
+### Step 2: A Second Language
+Once you've completed the Richard Buckland lectures, it's time to apply those Computer Science concepts and learn a new language (or even two). 
+
+Now programming languages can generally be categorized into one of two paradigms: Imperative and Declarative. These aren't necessarily mutually exclusive, but a language will always lean distinctly towards one or the other. C is an Imperative language. There will be more discussion of paradigms later on, but for now the important thing is that for this step you should pick another Imperative language.  A few good languages include:
+
+* Python 2.x
+    * [Learn Python The Hard Way](http://learnpythonthehardway.org/)
+    * [Dive into Python](http://diveintopython.org/toc/index.html)
+    * [Non-Programmer's Tutorial for Python 2.6](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6)
+* Python 3.x
+    * [Dive into Python 3](http://www.diveintopython3.org/)
+* Ruby
+    * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+* Java
+    * [Just Java(TM) 2 (6th Edition)](http://www.amazon.com/Just-Java-TM-2-6th/dp/0131482114/ref=tmm_pap_title_0)
+* Processing
+    * [Getting Started with Processing](http://www.processing.org/learning/gettingstarted/)
+* Google's Go
+    * [Official Website](http://golang.org/doc/)
+* Bash (Bourne-Again Shell)
+    * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
+
+(If anyone can recommend good tutorials for the listed languages or other beginner-friendly imperative languages, please let me know.)
+
+### Step 3: A Fresh Perspective
+By this point, you should have a pretty firm understanding of the Imperative style of programming. But that's only half of the story. Your education would be incomplete without learning at least one Declarative programming language. These languages are distinctly different from the Imperative languages you have been using and will give you a fresh perspective on programming in general. Learning Declarative programming has forever changed how I think about and write code. Here are a few languages to try:
+
+* Erlang
+    * [Learn You Some Erlang](http://learnyousomeerlang.com/)
+    * [Programming Erlang: Software for a Concurrent World](http://www.amazon.com/Programming-Erlang-Software-Concurrent-World/dp/193435600X/ref=sr_1_2?ie=UTF8&qid=1305140171&sr=8-2)
+    * [Erlang Programming](http://www.amazon.com/ERLANG-Programming-Francesco-Cesarini/dp/0596518188/ref=sr_1_2?ie=UTF8&qid=1327548086&sr=8-2)
+* Haskell
+    * [Learn You A Haskell](http://learnyouahaskell.com/)
+* XSLT
+    * [XSLT training from Crane Softwrights](http://www.cranesoftwrights.com/)
+* Scheme
+    * [How to Design Programs](http://www.htdp.org/)
+    * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
+* Lisp
+    * [Casting SPELs in Lisp](http://www.lisperati.com/casting.html)
+
+(Again, I'm open to recommendations for tutorials for these and other Declarative languages.)
+
+### Step 4: Continuing Education
+There are many interesting multi-paradigm languages out there. A few of the interesting/useful ones include:
+
+* C++
+    * [Grey Wolf's book list](http://www.amazon.com/lm/RO8WSCHCFW4KF/)
+    * [Learn C++](http://www.learncpp.com/)
+* Lua
+    * [Programming in Lua](http://www.lua.org/pil/)
+* Java[]()﻿Script
+    * [Eloquent Javascript](http://www.eloquentjavascript.net/)
+    * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&s=books&qid=1277869183&sr=8-1)
+* Scala
+* Clojure
+* Perl
+* Io
+    * [Io Tutorial](http://www.iolanguage.com/scm/io/docs/IoTutorial.html)
+
+It is also useful to learn an Assembly Language.
+
+* x86 Assembly
+    * [X86 Assembly (Wikibooks)](http://en.wikibooks.org/wiki/X86_Assembly)
+* 6502 Assembly
+    * [The 6502 Microprocessor Resource](http://www.6502.org/)
+
+
+## Further reading
+[C&T's Suggested Reading list](http://www.gaiaonline.com/forum/c-t-tech-talk/suggested-reading-technology-and-programming/t.69647195_1/) - A lot of good books recommended by developers, for developers. 

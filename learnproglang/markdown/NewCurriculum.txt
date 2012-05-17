@@ -1,0 +1,24 @@
+﻿# A better curriculum for teaching Computer Programming
+## Idea
+When I was very young (elementary school) one of the ways I first learned about programming was through programming games such as [A.I. Wars](http://www.tacticalneuronics.com/content/aiw3dnew.asp). I think competitive games could be an excellent tool for teaching computer programming to both children and adults.
+
+There are several freeware or open-source programming games available today which look promising.
+
+* [Core Wars](http://www.corewars.org/) - Assembly-like programming language
+* [RoboWar](http://robowar.sourceforge.net/RoboWar5/index.html) - Stack-oriented programming language
+* [Robocode](http://robocode.sourceforge.net/) - Java or .Net languages
+* [Battlecode](http://www.battlecode.org/) - Java languages (don't see any source code yet)
+
+What I am proposing is developing a curriculum based on (or inspired by) these games. 
+
+## Proposed Curriculum
+
+Stage 1: Introduction to programming with Robo[]()War (teach a very simple programming language)
+
+Stage 2: Introduction to high-level programming with Robocode (teach a higher-level programming language)
+
+Stage 3: TECS Part 1: Assembly language. (Based on the first half of "The Elements of Computing Systems", it would teach how to create a machine to run Core Wars battles.)
+
+Stage 4: TECS Part 2: Higher-level lanaguage. (Based on the second half of "The Elements of Computing Systems", it would teach how to create a game like Robocode or Battlecode.)
+
+This could probably be broken up into 4 single semester courses.
