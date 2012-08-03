@@ -37,6 +37,7 @@ Now programming languages can generally be categorized into one of two paradigms
     * [Non-Programmer's Tutorial for Python 2.6](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6)
 * Python 3.x
     * [Dive into Python 3](http://www.diveintopython3.org/)
+    * [Invent Your Own Computer Games with Python](http://inventwithpython.com/) (and companion book Making Games with Python and PyGame)
 * Ruby
     * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 * Java
@@ -66,6 +67,7 @@ By this point, you should have a pretty firm understanding of the Imperative sty
     * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/)
 * Lisp
     * [Casting SPELs in Lisp](http://www.lisperati.com/casting.html)
+    * [Land of Lisp](http://www.amazon.com/dp/1593272812/)
 
 (Again, I'm open to recommendations for tutorials for these and other Declarative languages.)
 
@@ -75,6 +77,8 @@ There are many interesting multi-paradigm languages out there. A few of the inte
 * C++
     * [Grey Wolf's book list](http://www.amazon.com/lm/RO8WSCHCFW4KF/)
     * [Learn C++](http://www.learncpp.com/)
+    * [EFNet C++ Book list](http://efnetcpp.org/wiki/C%2B%2B_books)
+    * [StackOverflow Definitive Book List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * Lua
     * [Programming in Lua](http://www.lua.org/pil/)
 * Java[]()﻿Script
