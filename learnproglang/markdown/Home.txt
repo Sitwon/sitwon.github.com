@@ -96,6 +96,7 @@ It is also useful to learn an Assembly Language.
     * [X86 Assembly (Wikibooks)](http://en.wikibooks.org/wiki/X86_Assembly)
 * 6502 Assembly
     * [The 6502 Microprocessor Resource](http://www.6502.org/)
+    * [Easy 6502](http://skilldrick.github.com/easy6502/index.html)
 
 
 ## Further reading
