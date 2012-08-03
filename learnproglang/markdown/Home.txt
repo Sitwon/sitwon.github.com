@@ -12,6 +12,11 @@ I highly recommend watching both playlists through in order. Especially with a f
 * [Richard Buckland's COMP1917 (Higher Computing) lectures on `YouTube`](http://www.youtube.com/view_play_list?p=6B940F08B9773B9F)
 * [Richard Buckland's COMP1927 (Data Structures)  lectures on `YouTube`](http://www.youtube.com/view_play_list?p=E621E25B3BF8B9D1)
 
+**NEW!**:
+
+* [Richard Buckland's Computing 1 course on openlearning.com](https://www.openlearning.com/courses/unsw/computing1)
+* [Richard Buckland's COMP2911 (CS3) lectures on `YouTube`](http://www.youtube.com/playlist?list=PLC3E93EF6B9645D9D&feature=plcp)
+
 You should also pick up a copy of the "K & R Bible".
 
 * [The C Programming Language](http://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?ie=UTF8&s=books&qid=1281115882&sr=8-1) by Brian Kernighan and Dennis Ritchie
@@ -36,7 +41,7 @@ Now programming languages can generally be categorized into one of two paradigms
     * [Dive into Python](http://diveintopython.org/toc/index.html)
     * [Non-Programmer's Tutorial for Python 2.6](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6)
 * Python 3.x
-    * [Dive into Python 3](http://www.diveintopython3.org/)
+    * [Dive into Python 3](http://getpython3.com/diveintopython3/)
     * [Invent Your Own Computer Games with Python](http://inventwithpython.com/) (and companion book Making Games with Python and PyGame)
 * Ruby
     * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
@@ -85,10 +90,14 @@ There are many interesting multi-paradigm languages out there. A few of the inte
     * [Eloquent Javascript](http://www.eloquentjavascript.net/)
     * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&s=books&qid=1277869183&sr=8-1)
 * Scala
+    * [Programming in Scala (first edition)](http://www.artima.com/pins1ed/)
+    * [Programming Scala](http://ofps.oreilly.com/titles/9780596155957/)
 * Clojure
 * Perl
 * Io
     * [Io Tutorial](http://www.iolanguage.com/scm/io/docs/IoTutorial.html)
+* Factor
+* C#
 
 It is also useful to learn an Assembly Language.
 
