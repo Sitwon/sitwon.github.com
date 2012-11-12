@@ -40,7 +40,7 @@ city officials on their side, they wanted to accelerate their deployment efforts
 of the public areas and public housing as they could.
 
 Over the course of the morning and early afternoon The Doctor and I polished out some final kinks in
-the latest Byzantium build while Chris went back to RHI with Tony and began flashing routers with
+the latest Byzantium build, while Chris went back to RHI with Tony and began flashing routers with
 the Commotion Wireless firmware. Later, The Doctor and I also found our way to RHI where we started
 planning with Tony where place new routers for optimal coverage. He took us to the roof of one
 building where a router had already been deployed so we could check out the lines of sight and we
@@ -53,7 +53,7 @@ Frank had worked some magic with IT-DRC to get a 15M satellite connection instal
 the RHI center to provide bandwidth to the mesh we were rolling out. Working together we got the
 satellite installed and running in record time. (No small feat given the weight of the equipment and
 the difficult roof access.) Afterwards, Johnathan and I went out to deploy a new router which
-provided internet access to Coffee Park and surrounding buildings. Chris and The Doctor hung back to
+provided Internet access to Coffee Park and surrounding buildings. Chris and The Doctor hung back to
 resolve some lingering issues with the gateway router and continue flashing routers with Commotion.
 By the end of the weekend they must have flashed at least two dozen routers, which were neatly
 labled and organized to faciliatate a rapid rollout.
