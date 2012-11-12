@@ -22,7 +22,7 @@ It began on Tuesday when Willow sent us a short and rather cryptic email that By
 to help restore communications in an area that had been affected by Sandy. The email didn't mention
 which state we were headed to, let alone which neighborhood, but we were ready to drive up there
 immediately anyways. Since she mentioned that we may need to run off of solar power I figured that
-Commotion routers would ultimately be a part of the solution, as the Ubiquity hardware they run on
+Commotion routers would ultimately be a part of the solution, as the Ubiquiti hardware they run on
 is much more power-thrifty than a laptop booted with Byzantium Linux. We set to work that evening
 prepping a special re-spin of Byzantium to interoperate seamlessly with Commotion and solve some
 other challenges that had been sitting on our to-do list. Then we did not hear back for a couple
