@@ -79,8 +79,8 @@ disaster recovery efforts to continue to learn about how we can best approach an
 of problems.
 
 Get involved:
-http://www.project-byzantium.org
-http://www.gwob.org
-http://rhicenter.org/
-https://redhook.recovers.org/
+* [Project Byzantium](http://www.project-byzantium.org)
+* [Geeks Without Bounds](http://www.gwob.org)
+* [Red Hook Initiative](http://rhicenter.org/)
+* [Red Hook NYC Recovers](https://redhook.recovers.org/)
 
