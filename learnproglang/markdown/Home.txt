@@ -3,6 +3,15 @@
 
 This is partially just a brain-dump for me, but also a resource for anyone hoping to learn computer programming. There are many different reasons why people choose to learn a programming language and there are many different types of programmers out there. I tend to lean strongly in the "Computer Science" direction so often my suggestions, advice, and reasoning will be biased towards that perspective. I believe that everyone needs to understand at least the basics of Computer Science regardless of which language they plan to learn or how they plan to use it. To that end, I'm going to recommend that everyone who lacks a formal understanding of Computer Science (even if you've programmed before) start with Step 1.
 
+### Step 0: Learning what programming is.
+One difficulty a lot of people have when they're first introduced to programming is that they have trouble learning what, exactly, programming *is* and what it entails.
+
+A well-written, brief introduction to the subject is the (in progress) "Programming for all" articles at [ArsTechnica](http://arstechnica.com):
+
+* [Part 1](http://arstechnica.com/science/2012/12/programming-for-all-part-1-an-introduction-to-writing-for-computers/)
+* [Part 2](http://arstechnica.com/science/2012/12/programming-for-all-part-2-from-concept-to-code/)
+
+These articles introduce some fundamental concepts that will make more advanced reading easier to grasp. Most importantly, it shows that programming is a skill that anyone can learn.
 
 ### Step 1: Intro to Computer Science.
 Short of taking an actual class, the best way to learn Computer Science that I know of is the wonderful lectures of Richard Buckland. Richard is a Computer Science professor at the University of New South Whales (UNSW) in sunny Australia. These classes give you a solid foundation in the concepts, principals, and vocabulary of Computer Science which you will need to really excel at learning a programming language. Through this course, you will also learn the basics of the C programming language. 
@@ -99,13 +108,18 @@ There are many interesting multi-paradigm languages out there. A few of the inte
 * Factor
 * C#
 
-It is also useful to learn an Assembly Language.
+It is also useful to learn an Assembly Language. There are many different kinds of CPUs, each with their own unique set of assembly instructions:
 
-* x86 Assembly
+* **x86** - used by most desktop and laptop computers
     * [X86 Assembly (Wikibooks)](http://en.wikibooks.org/wiki/X86_Assembly)
-* 6502 Assembly
+    * [Introduction to Intel Assembly Language on Linux](http://heather.cs.ucdavis.edu/~matloff/50/LinuxAssembly.html)
+* **6502** - used by the Nintendo Entertainment System, the Atari computer and game systems, Commodore PET and 64, and the Apple II
     * [The 6502 Microprocessor Resource](http://www.6502.org/)
     * [Easy 6502](http://skilldrick.github.com/easy6502/index.html)
+* **ARM** - used by most cellphones, tablet computers, and the Raspberry Pi
+    * [Bournemouth University's "ARM: Assembly Language Programming"](http://www.eng.auburn.edu/~nelson/courses/elec5260_6260/ARM_AssyLang.pdf)
+    * [Heyrick's ARM asembler reference](http://www.heyrick.co.uk/assembler/)
+    * [Whirlwind Tour of ARM Assembly](http://www.coranac.com/tonc/text/asm.htm)
 
 
 ## Further reading
