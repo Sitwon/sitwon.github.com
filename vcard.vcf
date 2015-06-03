@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:4.0
+ADR;TYPE=home;;4404 Garrett Park Rd.;Silver Spring;MD;20906;United States of America
+BDAY:19850117
+CALURI:https://www.google.com/calendar/ical/dragonwisard%40gmail.com/public/basic.ics
+CATEGORIES:programmer,hacker,pirate
+EMAIL:dragonwisard@gmail.com
+FBURL:https://www.google.com/calendar/embed?src=dragonwisard%40gmail.com&ctz=America/New_York
+FN:Ben Mendis
+IMPP:xmpp:dragonwisard@gmail.com
+KEY;MEDIATYPE=application/pgp-keys:http://sitwon.github.io/3233ED30.pub
+KIND:individual
+LANG:en-US
+N:Mendis;Bennett;;;
+NICKNAME:Ben,Ben the Pyrate,BAM
+REV:20150602T210800Z
+SOURCE:http://sitwon.github.io/vcard.vcf
+TEL;TYPE=cell;VALUE=uri:tel:+1-301-244-8678
+TZ:America/New_York
+URL:http://sitwon.github.io/
+END:VCARD
