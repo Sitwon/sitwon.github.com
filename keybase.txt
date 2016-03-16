@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/sitwon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mend.is
+  * I am sitwon (https://keybase.io/sitwon) on keybase.
+  * I have a public key with fingerprint 016D 2854 B61F 1154 50BA  EC08 C728 E6C6 3233 ED30
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010100b657611a1f07e6c2ba76e24fb2bdde453114fb738087a22b351b872d8935860a",
+            "fingerprint": "016d2854b61f115450baec08c728e6c63233ed30",
+            "host": "keybase.io",
+            "key_id": "c728e6c63233ed30",
+            "kid": "010100b657611a1f07e6c2ba76e24fb2bdde453114fb738087a22b351b872d8935860a",
+            "uid": "edb3683988fd4b84c67588c0b6d96119",
+            "username": "sitwon"
+        },
+        "revoke": {
+            "sig_ids": [
+                "0d3b1ed20b9ab3d16e3c2ed4c80e5346916dfcb8934244429b75dfbd0b281c050f"
+            ]
+        },
+        "service": {
+            "hostname": "mend.is",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458089254,
+    "expire_in": 157680000,
+    "prev": "cc3a265a25e8bd68a786b9211842ab3d268a3aa9b3841148a058cb934f2349b7",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtUltsFUUYPgcQaMUEiDTBEMWNFgwF5ro7eyLFeAlGCIFwF3WZ256zlu4edpee
+0lIiPpioMfAg0cQQqBXCJccXiLwIocbYSBEEgWigXhJqIRECSgpWEp09ypuPzDxM
+5s/3f9/3fzPbHxqdG5/vm/nrVwhfA/n+qyK38kr1uU5LRGqTVei0WnTt0OuVTlKv
+JVBWwQLQbCBs6tgQcugDR9sSCe7YGhFfIKGUJhRDaC4OZoA5HCGBKRTMQYq5mDIb
+cKvJ8oOwqONyHIRpjdZWiFEibOhDSAkFgmsJmHQQMwI2RhhrhYFpLEVJ1mHMCZ7o
+OUFkaubi1ez9D/4++95Yo9NKYJthlzFfEcGItB3KmDQCyjUCbgZMdBzyVm3QSZBW
+otDqarJi3Ra16CzVJCgay4lVWGsBhQXUCgHhcoEVtDWWSCsiGdAUE9s14fhSGBME
+EUKQKxyqfKGAQAxKQIFvvWq4jV5bIGvkWUb/abfqUM0JEmOoHEdpJKP1plhK03JS
+yAylm8oZqqKFl3z6L4EnglCZ1zEtbTpOAuO8AA1UpkHGCAk18biIkiZLt5eDWHtB
+hjDJMmBWJqTbsreQmCObckQ1E8pm3GG2cBGEjKBsTmRKmHNXYEZM7owDyqQwQ/oI
+EzOjlY20IYysAkLGKC/WkiyGPN0Ya6ur/u38tDG5/Pjc2AdGZf82V1838d5nvnRm
+3N/ytR/f7bi8rNRYbZ/w2JKzH8yYcHzas87as4OVgY9O9Ez9hb9febhh16HhpmL4
+3lsHFuQuj+ud+tuW3sXznmlu/372ntMHG5ezF7dd36r2v3m8/+jIkndm7G55ozrU
+4a2Ye/pc98ulyqp1H27tmbVz+PoduEO+PjD35PQjNz5eM1uO6Wq+8cfFgR+ab428
+9OCj3md3T3bSDedu3/xyetLYe+Lu0sNf713TMLziQmnR5K7u/u+OrLu9/c/84M8D
+x14Y3bc4L4Idj3ecPz/Yt6DnkS9GgvmTTw0tPHOh/+nVg082f9P6RO/eb+uOeaS6
++conqy59fvXg8xflvt+3PZV/5a+f6oa99ikN8+MhvrRazyb9Aw==
+=r+0P
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sitwon
+
+==================================================================
+
