@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/sitwon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ben.mend.is
+  * I am sitwon (https://keybase.io/sitwon) on keybase.
+  * I have a public key ASBKc7SPXpF7VKg4h4VRLGEeqSGD3mL5-QTtY3NuMHjNdwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010100b657611a1f07e6c2ba76e24fb2bdde453114fb738087a22b351b872d8935860a",
+            "host": "keybase.io",
+            "kid": "01204a73b48f5e917b54a8388785512c611ea92183de62f9f904ed63736e3078cd770a",
+            "uid": "edb3683988fd4b84c67588c0b6d96119",
+            "username": "sitwon"
+        },
+        "service": {
+            "hostname": "ben.mend.is",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1458089459,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1458089436,
+        "hash": "c7471153ea16d7d58f71a1b9cbf51a76923d607f969f94b7560d1cde7952f33cb9fc104bfa5e278fb87690b720832e729269cdfee172ea4d2105ae606a1d5bbb",
+        "seqno": 408100
+    },
+    "prev": "f751b6862a6c9da716b3ab7ae9e8dd87ff01c51209827947dfe66eec72566617",
+    "seqno": 23,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSnO0j16Re1SoOIeFUSxhHqkhg95i+fkE7WNzbjB4zXcKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMDBiNjU3NjExYTFmMDdlNmMyYmE3NmUyNGZiMmJkZGU0NTMxMTRmYjczODA4N2EyMmIzNTFiODcyZDg5MzU4NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGE3M2I0OGY1ZTkxN2I1NGE4Mzg4Nzg1NTEyYzYxMWVhOTIxODNkZTYyZjlmOTA0ZWQ2MzczNmUzMDc4Y2Q3NzBhIiwidWlkIjoiZWRiMzY4Mzk4OGZkNGI4NGM2NzU4OGMwYjZkOTYxMTkiLCJ1c2VybmFtZSI6InNpdHdvbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYmVuLm1lbmQuaXMiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ1ODA4OTQ1OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU4MDg5NDM2LCJoYXNoIjoiYzc0NzExNTNlYTE2ZDdkNThmNzFhMWI5Y2JmNTFhNzY5MjNkNjA3Zjk2OWY5NGI3NTYwZDFjZGU3OTUyZjMzY2I5ZmMxMDRiZmE1ZTI3OGZiODc2OTBiNzIwODMyZTcyOTI2OWNkZmVlMTcyZWE0ZDIxMDVhZTYwNmExZDViYmIiLCJzZXFubyI6NDA4MTAwfSwicHJldiI6ImY3NTFiNjg2MmE2YzlkYTcxNmIzYWI3YWU5ZThkZDg3ZmYwMWM1MTIwOTgyNzk0N2RmZTY2ZWVjNzI1NjY2MTciLCJzZXFubyI6MjMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA9uIrbzVgqBLWrt3XmQh0ABrqIOD8s9mIvJ624l2RsYXv5x84KX4/w16RyzVeiqQeiwQkHIu7XoznNuraP+LRDqhzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sitwon
+
+==================================================================
+
