@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:4.0
-EMAIL:ben.mendis@gmail.com
+EMAIL:ben@mend.is
 FN:Ben Mendis
-KEY;MEDIATYPE=application/pgp-keys:http://sitwon.github.io/3233ED30.pub
+KEY;MEDIATYPE=application/pgp-keys:http://ben.mend.is/C1D89F01.pub
 N:Mendis;Bennett;;;
 NICKNAME:Ben,Ben the Pyrate
-REV:20150602T212000Z
-SOURCE:http://sitwon.github.io/vcard.vcf
+REV:20160320T182000Z
+SOURCE:http://ben.mend.is/vcard.vcf
 TEL;TYPE=cell;VALUE=uri:tel:+1-301-244-8678
 END:VCARD
